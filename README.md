@@ -1,96 +1,79 @@
-<h1 align="center">👾 KRACKEN.EXE</h1>
+<h1 align="center">Hi 👋, I'm Kracken</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+System...;IoT+Hacker+Online;Hackathon+Destroyer;Building+Future+Tech&center=true&width=600&height=50&color=00FF00">
+<img src="https://komarev.com/ghpvc/?username=codenamekraken&label=Profile%20views&style=flat" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=IoT+Developer;ESP8266+%7C+ESP32;Building+Real+Projects&center=true&width=420&height=40">
 </p>
 
----
-
-```bash
-> boot sequence start...
-> loading modules ██████████ 100%
-> system status: ONLINE ✅
-```
-
----
-
-## 🧠 PROFILE CORE
-
-```yaml
-name: Kracken
-role: IoT Developer
-mode: Hackathon Active
-focus: ESP8266 | ESP32 | AI + Hardware
-goal: Build insane futuristic projects
-status: ALWAYS BUILDING 🚀
-```
-
----
-
-## ⚙️ TECH STACK
-
 <p align="center">
-<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=arduino&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=internetofthings&logoColor=00FF00"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:2563eb&height=120&section=header&text=&fontSize=20&animation=fadeIn"/>
 </p>
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## 🧠 About Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codenamekraken&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codenamekraken&theme=chartreuse-dark&hide_border=true"/>
+* 🔧 I build IoT systems using ESP8266 / ESP32
+* 🚀 Interested in real-world automation & embedded systems
+* 🛠️ Learning by building practical projects
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,cpp,python,git,github,linux"/>
 </p>
 
 ---
 
-## 🐍 ACTIVITY TRACE
+## 🚀 Projects
 
-<p align="center">
+* 🔌 **ESP32 Automation System**
+  MQTT + IR + PIR + OTA + NTP based smart control system
+
+* 🏠 **Home Automation (Arduino)**
+  Sensor-based automation for real-world use
+
+* 💬 **Blind Date Chat App**
+  Simple anonymous interaction system
+
+* 📸 **Face Photo Portal**
+  Image upload and processing
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=codenamekraken&show_icons=true&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Activity
+
+<p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🚀 ACTIVE PROJECTS
+## 📌 Current Focus
 
-```bash
-> Smart IoT Assistant (ESP8266 + OLED)
-> AI Mood Reactive Device
-> Hackathon Prototypes
-> Experimental Automation Systems
-```
+* Improving IoT system design
+* Building better hackathon projects
+* Learning advanced embedded systems
 
 ---
-
-## ⚡ LIVE STATUS
-
-```bash
-> coding...
-> building hardware...
-> debugging life choices...
-> next mission: WIN HACKATHON 🏆
-```
-
----
-
-## 🧬 CONNECT
 
 <p align="center">
-<a href="https://github.com/codenamekraken">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
-</a>
+Thanks for visiting 🙌
 </p>
 
----
-
 <p align="center">
-⚡ "Code. Build. Break. Repeat." ⚡
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563eb,100:0f172a&height=80&section=footer"/>
 </p>
