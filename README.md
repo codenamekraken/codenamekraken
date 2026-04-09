@@ -137,7 +137,7 @@ Mode: ACTIVE ⚡
 <p align="center">
 ⚡ "Code. Build. Break. Repeat." ⚡
 </p>
-like not problem with animation like iot hacker next gole this are to fuch flexing thing 
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
