@@ -24,7 +24,7 @@
 
 ```yaml
 name: KRACKEN
-role: IoT Hacker
+role: IoT Developer
 specialization: ESP8266 | ESP32 | Embedded Systems
 mode: Hackathon Beast 🔥
 status: Building futuristic tech 🚀
